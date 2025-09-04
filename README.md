@@ -19,5 +19,8 @@ Author=sanjana thakur<br>
 ##  Setup Instructions  <br>
 1. Clone the repo  <br>
    git clone https://github.com/thakursanjana12/WeatherApp.git<br>
-   cd WeatherApp
+   cd WeatherApp<br>
+   Candidate Info
+Candidate ID: Naukri0925<br>
+Name: Sanjana Thakur
 
