@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/thakursanjana12/weatherapp.git/static/css/main.2eeac0a7.css",
-    "main.js": "/thakursanjana12/weatherapp.git/static/js/main.00f49ca5.js",
-    "index.html": "/thakursanjana12/weatherapp.git/index.html",
-    "main.2eeac0a7.css.map": "/thakursanjana12/weatherapp.git/static/css/main.2eeac0a7.css.map",
-    "main.00f49ca5.js.map": "/thakursanjana12/weatherapp.git/static/js/main.00f49ca5.js.map"
+    "main.css": "/thakursanjana12/weatherapp/static/css/main.2eeac0a7.css",
+    "main.js": "/thakursanjana12/weatherapp/static/js/main.00f49ca5.js",
+    "index.html": "/thakursanjana12/weatherapp/index.html",
+    "main.2eeac0a7.css.map": "/thakursanjana12/weatherapp/static/css/main.2eeac0a7.css.map",
+    "main.00f49ca5.js.map": "/thakursanjana12/weatherapp/static/js/main.00f49ca5.js.map"
   },
   "entrypoints": [
     "static/css/main.2eeac0a7.css",
