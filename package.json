@@ -1,12 +1,14 @@
 {
   "homepage": " https://thakursanjana12.github.io/weatherapp/",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+"start": "react-scripts start",
+"dev": "vite",
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+}
   "devDependencies": {
-    "gh-pages": "^6.3.0"
-  },
+      "gh-pages": "^6.3.0"
+    },
   "name": "weatherapp",
   "version": "1.0.0",
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
@@ -14,6 +16,7 @@
   "dependencies": {
     "array-union": "^2.1.0",
     "async": "^3.2.6",
+    "axios": "^1.11.0",
     "braces": "^3.0.3",
     "commander": "^13.1.0",
     "commondir": "^1.0.1",
@@ -43,7 +46,7 @@
     "queue-microtask": "^1.2.3",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^0.0.0",
     "reusify": "^1.1.0",
     "run-parallel": "^1.2.0",
     "semver": "^6.3.1",
