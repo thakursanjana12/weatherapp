@@ -2,7 +2,6 @@
   "homepage": " https://thakursanjana12.github.io/weatherapp/",
   "scripts": {
     "start": "react-scripts start",
-
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
@@ -47,7 +46,7 @@
     "queue-microtask": "^1.2.3",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-scripts": "^0.0.0",
+    "react-scripts": "^5.0.1",
     "reusify": "^1.1.0",
     "run-parallel": "^1.2.0",
     "semver": "^6.3.1",
