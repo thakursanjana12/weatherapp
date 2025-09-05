@@ -1,0 +1,32 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "this project is  weather app<br> author=sanjana",
+  "main": "eslint.config.js",
+  "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakursanjana12/weatherapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thakursanjana12/weatherapp/issues"
+  },
+  "homepage": "https://github.com/thakursanjana12/weatherapp#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-doc": "^1.2.6",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.8.2",
+    "react-scripts": "^5.0.1"
+  }
+}
